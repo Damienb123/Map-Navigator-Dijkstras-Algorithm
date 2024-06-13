@@ -33,18 +33,18 @@
 ### Installation
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/Map-Navigator.git
-    cd Map-Navigator
+    git clone https://github.com/yourusername/Map-Navigator-Dijkstras-Algorithm.git
+    cd Map-Navigator-Dijkstras-Algorithm
     ```
 
 2. **Compile the Program**
     ```bash
-    gcc -o Map_Navigator Map_Navigator.c
+    gcc -o Map-Navigator-Dijkstras-Algorithm main.c
     ```
 
 3. **Run the Program**
     ```bash
-    ./Map_Navigator
+    ./output.exe
     ```
 
 ## Project Structure
