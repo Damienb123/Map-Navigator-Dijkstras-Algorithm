@@ -4,8 +4,8 @@
 1. [Overview](#Overview)
 2. [Features](#Features)
 3. [Getting Started](#Getting-Started)
-  - Prerequisites
-  - Installation
+    - Prerequisites
+    - Installation
 4. [Project Structure](#Project-Structure)
 5. [Usage](#Usage)
 6. [Example Output](#Example-Output)
